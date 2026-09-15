@@ -11,6 +11,12 @@ El sistema recupera antecedentes históricos relacionados semánticamente con un
 
 > El prototipo es una herramienta de apoyo. La validación, el diagnóstico y la decisión final corresponden al personal técnico.
 
+## Motivación del proyecto
+
+La elección de este proyecto nace de mi experiencia laboral como supervisor de fibra óptica en el área de mantenimiento de redes para Claro y VTR. Dentro de mis funciones habituales participo en la gestión y supervisión de reparaciones de distintos tipos de enlaces de fibra óptica, entre ellos redes FTTH (*Fiber to the Home* o *fibra hasta el hogar*).
+
+Debido a mi interés por esta área y a la experiencia adquirida en terreno, decidí orientar lo aprendido en la asignatura hacia una problemática relacionada directamente con mi trabajo. La idea fue desarrollar un prototipo que pudiera utilizar antecedentes de incidencias FTTH anteriores como apoyo para mis tareas de supervisión, facilitando la búsqueda de información y entregando una orientación inicial antes y durante el proceso de diagnóstico de una falla.
+
 ## Problema abordado
 
 En la atención de una incidencia FTTH se requiere identificar la infraestructura asociada, realizar mediciones, consultar planimetría y orientar las revisiones en terreno. Además, puede ser necesario revisar manualmente antecedentes de fallas anteriores similares.
